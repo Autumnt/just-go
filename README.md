@@ -1,4 +1,1 @@
-# just-go
-it's a interesting project
-It's a summer day.
-The sun is so hot.
+The sky is clear, the cloud is very white, the mood is very good.
